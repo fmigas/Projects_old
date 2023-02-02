@@ -23,3 +23,7 @@ It is a simple English names generator using LSTM bidirectional network.
 The objective of this project was to observe how adding randomness to the model at different levels (adding noise to train data, and adding controlled randomness to the text-generating module) affects the quality of the output.
 
 At the end, I proposed some simple yet interesting metrics for the quality of the generated output.
+
+SOURCE CODE RECOGNITION
+
+It is a classification task. I had a dataset of source codes in as much as 19 different programming languages. The objective was rather trivial - to classify the records so that a programming language is correctly recognized. What made this task interesting was using an NLP toolbox for a source code with is not a natural language.
